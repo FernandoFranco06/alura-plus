@@ -6,9 +6,7 @@ Página desenvolvida durante o Curso de **HTML e CSS: praticando HTML/CSS** da A
 
 ## Demonstração
 
-https://github.com/FernandoFranco06/alura-plus/assets/100961549/f89ea5ac-3237-4415-af09-f95b0ccb6d46
-
-1d35299)
+![Demonstração do Projeto](https://github.com/FernandoFranco06/alura-plus/assets/100961549/579abca9-7d14-4111-a6d9-d83bbe4f27b8)
 
 ## Tecnologias Utilizadas
 
